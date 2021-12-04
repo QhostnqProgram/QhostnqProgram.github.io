@@ -2,9 +2,9 @@
 
 ---
 
-### Adventure Game MidTerm
+### Portfolio
 
-[Project 1 Title](/sample_page)
+[Adventure Game](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
