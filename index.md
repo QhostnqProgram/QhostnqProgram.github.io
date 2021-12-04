@@ -5,7 +5,7 @@
 ### Portfolio
 
 [Adventure Game](/sample_page)
-<img src="images/grim-reaper-png.html?raw=true"/>
+<img src="images/ReaperImage.png?raw=true"/>
 
 ---
 [Adopt a Robot](/sample_page)
