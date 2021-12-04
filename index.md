@@ -13,7 +13,7 @@
 
 ---
 [Refactoring](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hacker.png?raw=true"/>
 
 ---
 
