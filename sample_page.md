@@ -7,25 +7,48 @@
 In Reaper Haunting, you play as a newly acquainted Grim Reaper after your successor has retired from centuries of reaping souls. Only just as the previous reaper retires, many vengeful souls take it as opportunity to leave their respective realms as you were given little to no training in your field. As the new appointed Angel of Death it is you job to reap Deviant souls and those whose time is nigh. In you journey you may also meet lost souls and those who are to be judged for banishment or reincarnation.
 
 ```javascript
-if (isAwesome){
-  return true
-}
-```
+ if (Inventory.Count > 0)
+            {
 
-### 2. Assess assumptions on which statistical inference will be based
+
+                int index = 1;
+                foreach (var item in collection)
+                {
+                    Console.WriteLine($"{index}) {item.Name}: {item.Description}");
+                    index++;
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("Oh no... You're Inventory... It's empty");
+            }
+
+            Console.WriteLine("Smash any key to cont.");
+            Console.ReadLine();
+```
+You must traverse to different worlds before placing each artifact in each place. To find these artifacts you must purify some deviant souls to get by.
+
+### 2. Adopt A robot
+
+In this game, you are simply adopting a robot and customizing it to your liking
 
 ```javascript
-if (isAwesome){
-  return true
-}
+
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+string myName = "Zacharie";
 
-### 4. Provide a basis for further data collection through surveys or experiments
+```
+            string[] items = new string[] { "carrot", "apple", "basketball" };
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+            Console.WriteLine(items[0]);
+            Console.WriteLine(items[1]);
+            Console.WriteLine(items[2]);
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            //Number array                0  1  2  3  4
+            int[] myNumbers = new int[] { 1, 5, 8, 9, 5 };
+
+```
