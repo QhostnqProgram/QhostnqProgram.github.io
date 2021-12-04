@@ -2,7 +2,7 @@
 
 ---
 
-### Portfolio
+### Programs
 
 [Adventure Game](/sample_page)
 <img src="images/ReaperImage.png?raw=true"/>
