@@ -33,15 +33,40 @@ You must traverse to different worlds before placing each artifact in each place
 
 In this game, you are simply adopting a robot and customizing it to your liking
 
-```javascript
+```    public void chooseColor(string c) 
+        {
+            switch (c)
+            {
+                case "1":
+                    player.PlayerRobot.Color = "blue";
+                    break;
+                case "2":
+                    player.PlayerRobot.Color = "purple";
+                    break;
+                case "3":
+                    player.PlayerRobot.Color = "green";
+                    break;
+                case "4":
+                    player.PlayerRobot.Color = "brown";
+                    break;
+                case "5":
+                    player.PlayerRobot.Color = "black";
+                    break;
+                case "6":
+                    player.PlayerRobot.Color = "coral";
+                    break;
+                default:
+                    player.PlayerRobot.Color = "silver";
+                    break;
 
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Array
 
-string myName = "Zacharie";
+In this Assignment, you had to practice creating an array where you are able to choose items with numbered keys
 
-```
+```string myName = "Zacharie";
+
             string[] items = new string[] { "carrot", "apple", "basketball" };
 
             Console.WriteLine(items[0]);
