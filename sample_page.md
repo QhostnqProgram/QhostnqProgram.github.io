@@ -33,7 +33,11 @@ You must traverse to different worlds before placing each artifact in each place
 
 In this game, you are simply adopting a robot and customizing it to your liking
 
-```    public void chooseColor(string c) 
+```   
+
+  WriteLine($"Congratulations {player.Name}! You have adopted a {player.PlayerRobot.Color} robot named {player.PlayerRobot.Name}. Press any key to exit.");
+            ReadKey();
+public void chooseColor(string c) 
         {
             switch (c)
             {
