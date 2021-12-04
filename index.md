@@ -8,11 +8,11 @@
 <img src="images/grim-reaper-png.html?raw=true"/>
 
 ---
-Adopt a Robot(/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Adopt a Robot](/sample_page)
+<img src="images/Robot.png?raw=true"/>
 
 ---
-Refactoring](http://example.com/)
+[Refactoring](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
